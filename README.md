@@ -17,7 +17,7 @@ This Java application allows you to manually input employee details (name and sa
 Clone this repository or download the project files to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yashsahu2001/Employee-Salary-Filtering-System.git
 ```
 
 ## Step 2: Import the Project in Eclipse
